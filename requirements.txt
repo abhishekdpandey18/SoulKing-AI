@@ -1,0 +1,9 @@
+# SoulShell Terminal — Core CLI Dependencies (Python 3.11+)
+# 100% Terminal-based CLI application (No GUI or browser dependencies)
+rich>=13.0.0
+httpx>=0.23.0
+Pygments>=2.15.0
+python-dotenv>=1.0.0
+
+# Optional Development & Testing
+pytest>=7.4.0
